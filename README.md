@@ -1,3 +1,4 @@
+# Modified version by
 # GNNs & Neo4j - Examples and Technical Resources
 This module is dedicated to example notebooks and other technical resources for Graph Neural Networks (GNNs) with [Neo4j Graph Data Science](https://neo4j.com/docs/graph-data-science/current/).  We will also include some resources for adjacent graph machine learning topics, such graph ML pipelines, non-GNN embeddings, and graph feature engineering.
 
